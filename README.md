@@ -1,1 +1,2 @@
 # vaultsclub-mint
+1
